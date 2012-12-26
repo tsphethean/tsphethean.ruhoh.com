@@ -1,11 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : tsphethean.co.uk
+tagline: 
 author :
-  name : Firstname Lastname
+  name : Tom Phethean
   email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  github : tsphethean
+  twitter : tsphethean
+  feedburner : 
 
 navigation :
   - archive.html
