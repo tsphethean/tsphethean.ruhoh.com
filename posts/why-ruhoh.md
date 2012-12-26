@@ -1,5 +1,6 @@
 ---
 layout: post
+date: '2012-12-26'
 title: "Ruhoh"
 description: "My journey through various personal websites, ending up with Ruhoh."
 category: blog
