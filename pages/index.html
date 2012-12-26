@@ -24,3 +24,20 @@ description:
   </div>
 </div>
 {{/ posts_latest }}
+
+<div class="hero-unit">
+  <h1>Site redesign</h1>
+  <p>As is my want, I'm replacing my old Wordpress powered blog site, with a new site powered by ruhoh.</p>
+  <p>The aim is to start blogging more (my last post was June 2011 so shouldn't be hard to improve on that record), and
+  expand the coverage to code snippets and technology projects as well as continuing to post recipes.</p>
+</div>
+
+<div class="row">
+  {{# posts_latest }}
+    <div class="span4">
+      <h2><a href="{{url}}">{{{ title }}}</a></h2>
+      <span>{{ date }}</span>
+      {{{ summary }}}
+    </div>
+  {{/ posts_latest }}
+</div>
