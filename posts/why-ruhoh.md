@@ -2,11 +2,10 @@
 layout: post
 date: '2012-12-26'
 title: "Ruhoh"
-description: "My journey through various personal websites, ending up with Ruhoh."
+summary: "My journey through various personal websites, ending up with Ruhoh."
 category: blog
 tags: [development]
 ---
-{% include JB/setup %}
 
 ## How did I get here?
 
