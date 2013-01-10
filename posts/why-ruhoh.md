@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2012-12-26'
-title: "Ruhoh"
+title: "Why Ruhoh?"
 summary: "My journey through various personal websites, ending up with Ruhoh."
 category: blog
 tags: [development]
@@ -36,16 +36,15 @@ one that really appeals right now (unless it was fun stuff that would never appe
 
 I'd heard a few
 people talking and blogging about Ruhoh, and was interested in learning more about an alternative approach to building simple
-websites. In a lot of ways, it takes me back to my roots of handcrafting sites, and after only a day of playing with it
-feels very simple and natural.
+websites. In a lot of ways, it takes me back to my roots of handcrafting sites. In the course of reading about Jekyll (and even getting 
+as far as setting up this blog in Jekyll and playing with some of the theme API, I noticed Ruhoh was being actively developed as a replacement or alternative to Jekyll. At the moment (without having 
+dug too deep) there seem to be few differences from Jekyll, and so with a spirit of adventure I figured I'd give the new kid a try.
 
-A big benefit I see is being able to draft posts offline more easily than with Wordpress or another hosted CMS. Publishing
+A big benefit I see in both Jeklly and Ruhoh is being able to draft posts offline more easily than with Wordpress or another hosted CMS. Publishing
 static HTML appeals as well, as although traffic isn't likely to be a problem for me there are simply fewer things to go
 wrong - as long as my web host keeps Apache up and running then I'll have a site, and if they can't do that then it's
-probably not a good sign.
+probably not a good sign. Simplicity and ease of authoring and publishing appeal as if I'm going to blog then I want to do it quickly and wherever I get the chance.
 
 Most importantly though, it's something to learn, an approach to play with, and incorporates some tools and technologies
 I've not played with yet. After all, isn't that what all devs want for Christmas?
-
-
 
