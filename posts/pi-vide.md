@@ -4,7 +4,7 @@ date: '2013-02-04'
 title: "Pi-vide: Building a Raspberry Pi sous-vide"
 summary: "Starting the journey of buiding a Raspberry Pi controlled sous-vide (water bath)."
 category: blog
-tags: [raspberrypi] [pi-vide]
+tags: [raspberrypi]
 ---
 
 Well, I'm not doing so well at keeping up the regular blogging, but I hope that this series of blog posts will keep me going for a little while.
